@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 '''
-Copyright (c) 2016-2024  ellie/@ellie on Codebrg and Github
+Copyright (c) 2016-2024  Ellie/@ellie on Github and Codeberg
 
 This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
